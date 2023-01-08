@@ -1,4 +1,4 @@
-# AuraPad
+# APPlus
 A sleek, dark mode, basic text editor for your editing needs. A great editor if you \
 only need a basic subset of features, \
 and an editor thats fast and gets the job done. 
